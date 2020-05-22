@@ -20,11 +20,11 @@ Assuming conda and git are already installed, tested on linux but should work on
 
 1. Download the repository
 	```
-	git clone https://github.com/meierkilian/iapr2020_gkj.git
+	git clone https://github.com/meierkilian/iapr2020_team31.git
 	```
 2. Go in the repository
 	```
-	cd team31
+	cd iapr2020_team31
 	```
 3. Install the conda environement
 	```
@@ -43,7 +43,7 @@ Assuming conda and git are already installed, tested on linux but should work on
 
 ## Usage
 ```
-main.py \[-h\] \[-i INPUT\] \[-o OUTPUT\] \[-v\]
+main.py [-h] [-i INPUT] [-o OUTPUT] [-v]
 ```
 
 optional arguments:
